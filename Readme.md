@@ -8,7 +8,7 @@ Links úteis:
  - [imagem-linux - Linux-mint 21.2, com git, gh, docker e ply - Formato ova](https://drive.google.com/file/d/1fMQwl5DlUCSzIikqoLmL1btlwz3e1Zzn/view?usp=sharing)
  
 
-Grupos do Projeto e Linguagens:
+Grupos das atividades:
 
 
 N|Nome Completo   | &nbsp;
