@@ -8,7 +8,7 @@ Links úteis:
  - [imagem-linux - Linux-mint 21.2, com git, gh, docker e ply - Formato 7zip](./imagelinux)
  
 
-Grupos do Projeto e Linguagens:
+Grupos das atividades:
 
 
 N|Nome Completo   | &nbsp;
