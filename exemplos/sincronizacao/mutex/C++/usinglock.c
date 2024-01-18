@@ -18,7 +18,6 @@ void* jobs (void* arg) {
 int main ()
 {
     pthread_t threads[n_threads]; 
-    char name[n_threads][15];
     for (int i = 0; i < n_threads; i++ )
         pthread_create(&threads[i],NULL,jobs,NULL);
     for (int i =0; i < n_threads; i++)
