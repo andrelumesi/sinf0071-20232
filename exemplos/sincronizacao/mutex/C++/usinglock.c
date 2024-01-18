@@ -11,6 +11,7 @@ int n_threads =100;
 void* jobs (void* arg) {
     pthread_mutex_lock(&lock);
     printf("lock acquire() ------>Thread-%ld\n",pthread_self());
+    printf("lock release() ------>Thread-%ld\n",pthread_self());
     pthread_mutex_unlock(&lock);
 }
 
