@@ -10,6 +10,7 @@ def job():
     time.sleep(r)
     lock.acquire()
     print('lock acquire() ------>',threading.current_thread().getName())
+    print('lock release() ------>',threading.current_thread().getName())
     lock.release()
 
 if __name__ == '__main__':
